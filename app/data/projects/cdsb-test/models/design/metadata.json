@@ -1,0 +1,3732 @@
+{
+  "id": "",
+  "projectId": "25pZJ2i0j59um4VGOXaAZR",
+  "metaObjects": [
+    {
+      "id": "25pZJ2i0j59um4VGOXaAZR",
+      "name": "",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "25pZJ2i0j59um4VGOXaAZP",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "25pZJ2i0j59um4VGOXaAZR"
+    },
+    {
+      "id": "25pZJ2i0j59um4VGOXaAZQ",
+      "name": "Technicentre Hellemmes",
+      "type": "IfcBuilding",
+      "parent": "25pZJ2i0j59um4VGOXaAZP"
+    },
+    {
+      "id": "3Zy0wMPrvB0Od1Ryk0Yksc",
+      "name": "NIVEAU 0",
+      "type": "IfcBuildingStorey",
+      "parent": "25pZJ2i0j59um4VGOXaAZQ"
+    },
+    {
+      "id": "3AI01w4jPAOfYYaacheAWO",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4431108",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0IAJVxf0T4dwyju$FBO4Yn",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4469400",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1ny2EN_2b4kf3VBll17TBC",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4498704",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1ny2EN_2b4kf3VBll17T7Q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4498950",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqMIt",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4570840",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqMI9",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4570854",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqMMV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571120",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqMMH",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571134",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHfT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571186",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHfJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571196",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHed",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571208",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHez",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571218",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHeJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571260",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHhf",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571270",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHhz",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571282",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHhp",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571292",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHgy",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571347",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHgw",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571349",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHiL",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571514",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHlh",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571524",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHlZ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4571532",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3AyqHDpUH8DAjqgWOQqHlX",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4571534",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEXI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574860",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEXG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574862",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574870",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX6",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574872",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574874",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX2",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574876",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX0",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574878",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEX_",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574880",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEXy",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574882",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEXw",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574884",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEWA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574932",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEW8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574934",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEW6",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4574936",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEW4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4574938",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEW2",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574940",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEW0",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4574942",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEaM",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575176",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEaK",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575178",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEaG",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575182",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEa8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575190",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEa6",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575192",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEa2",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575196",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEa0",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575198",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEa_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575200",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEaw",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575204",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEau",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575206",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBEaa",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575226",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRu",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575270",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRs",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575272",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRk",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575280",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRi",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575282",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRg",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575284",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRe",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575286",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRc",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575288",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRa",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575290",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575292",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFRW",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575294",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575360",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPS",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575362",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPK",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575370",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPI",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575372",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575374",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPE",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575376",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPC",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575378",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFPA",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575380",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFP8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575382",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFP6",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575384",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOR",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575429",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575431",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOL",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575435",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOD",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575443",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOB",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575445",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFO7",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575449",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFO5",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575451",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFO3",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575453",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFO$",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4575457",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "398vBsUeLASPKMNgirBFOz",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4575459",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0j7yqnX9j7e9jiHD5W86S3",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4582845",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0liq1kj$vAIurUu52hTetY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4601481",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0liq1kj$vAIurUu52hTet5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4601518",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0rgo$MUcjFw8MUdG4mEgBU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4602648",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79fw",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4606226",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79fp",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4606235",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79f9",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4606241",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79f4",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4606252",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79ZY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4606858",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79Zt",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4606879",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79x6",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4607406",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc79wi",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4607428",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Ez",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608213",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Ep",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4608219",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc789U",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608310",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc788O",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608368",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Bf",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608385",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Br",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608413",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78A1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608489",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78AQ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608498",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc785z",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608533",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc785s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608542",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc786U",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608758",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc786N",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608767",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc780w",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608850",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc780o",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4608858",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc780s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608862",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc780C",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4608868",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7800",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608872",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7806",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4608878",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc780K",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608892",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc783A",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608930",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7836",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608942",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc782s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608990",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7828",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4608992",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc782P",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609009",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc782R",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609011",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc782N",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4609023",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Tl",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4609031",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Ql",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609479",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78QY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609482",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Qu",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4609488",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78Qz",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4609493",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78NI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609722",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78M6",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609774",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78MJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4609787",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78iC",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610148",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78iR",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610163",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78iH",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610169",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78iL",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610173",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78kX",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610249",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78kd",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610255",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78kn",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610265",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78kr",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610269",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78fw",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610322",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78fF",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610343",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78f5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610349",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78fR",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610355",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78fV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610359",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78e0",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610408",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78eP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610417",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78hE",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610470",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78h4",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610476",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78ga",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610508",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78gy",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4610516",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78gm",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610520",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78gK",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610556",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78bl",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610567",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc78WD",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4610917",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7B8q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4612444",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7B81",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4612457",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7B8J",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4612475",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2gCvsBEMT0lPr4KpSc7BBb",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4612493",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1Dv_PR$R58OwPsIBA5Epsf",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4614136",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1Dv_PR$R58OwPsIBA5Ep9K",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4614149",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1Dv_PR$R58OwPsIBA5Ep9Q",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4614155",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2_dmINotfAUQhjnZoH_StB",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4621198",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2_dmINotfAUQhjnZoH_Sj5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4621568",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2_dmINotfAUQhjnZoH_SR7",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4622466",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2_dmINotfAUQhjnZoH_SQK",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4622545",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqLtQ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624383",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8d",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624386",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8W",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624389",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8j",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624392",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8k",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624395",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8h",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624398",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624401",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8n",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624404",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8o",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624407",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8$",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624410",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8u",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624413",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK85",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624416",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK83",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624422",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8C",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624425",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK89",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624428",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8A",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624431",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8N",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624434",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8G",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624437",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8T",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624440",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8U",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624443",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK8R",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624446",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9a",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624449",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9X",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624452",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9Y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624455",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9l",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624458",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9e",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624461",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9r",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624464",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624467",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9p",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624470",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624473",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9v",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624476",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9w",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624479",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK97",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624482",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK90",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624485",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9D",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624488",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9E",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624491",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9B",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624494",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9K",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624497",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9H",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624500",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9I",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624503",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9V",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624506",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK9O",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624509",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAb",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624512",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAc",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624515",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAZ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624518",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAi",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624521",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAf",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624524",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAg",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624527",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAt",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624530",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAm",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624533",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAz",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624536",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKA_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624539",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAx",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624542",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKA4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624545",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKA1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624548",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKA2",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624551",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAF",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624554",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKA8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624557",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAL",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624560",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAM",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624563",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624566",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAS",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624569",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624572",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKAQ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624575",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBd",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624578",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBW",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624581",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBj",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624584",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBk",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624587",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBh",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624590",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624593",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBn",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624596",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBo",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624599",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKB$",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624602",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBu",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624605",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKB5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624608",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKB6",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624611",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKB3",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624614",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBC",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624617",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKB9",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624620",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624623",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBN",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624626",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624629",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624632",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624635",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKBR",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624638",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624879",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFN",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624882",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624885",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624888",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624891",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqKFR",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624894",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0a",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624897",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0X",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624900",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0Y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624903",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0l",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624906",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0e",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624909",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0r",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624912",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624915",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK0p",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4624918",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2Y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625031",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2l",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625034",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2e",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625037",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2r",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625040",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625043",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2p",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625046",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625049",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2v",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625052",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2whN8w8WvAbvGPJyZVqK2w",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4625055",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnDdD",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4626161",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnDd9",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4626165",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnDBq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4627912",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnD1m",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4628300",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnD1e",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4628308",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "13uKmZP3bBAujlEwIsnD1b",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4628313",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "2qseS86J59bAt7OM38DV97",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4639365",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3v1F5klA18XxO74wcGOlzV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4664058",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3v1F5klA18XxO74wcGOlwW",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4664069",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1fVKIGT$H4gQm0O7vnUp$o",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4678046",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1fVKIGT$H4gQm0O7vnUpfm",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4678684",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1fVKIGT$H4gQm0O7vnUphi",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4678784",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "1fVKIGT$H4gQm0O7vnUpjq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4678936",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaCA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4708917",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaC7",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4708920",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaDW",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4708959",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaDT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4708962",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFb",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709082",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709085",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709088",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFS",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709091",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709094",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFM",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709097",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709100",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709103",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFD",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709106",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaFA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709109",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaF7",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709112",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaF4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709115",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZaF1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709118",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709121",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8x",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709124",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8u",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709127",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8r",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709130",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8o",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709133",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8l",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709136",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8i",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709139",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8f",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709142",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8c",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709145",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8Z",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709148",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8W",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709151",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8T",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709154",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8Q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709157",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8N",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709160",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8K",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709163",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8H",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709166",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8E",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709169",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa8B",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709172",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa88",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709175",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa85",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709178",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa82",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709181",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa9$",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709184",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa9y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709187",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa9v",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709190",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "11M1kN4mr499hoHFCGZa9s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4709193",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "0hLFT0LZvFZQBUWPbjuq2Z",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4718643",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqfm",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4719819",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqfs",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4719821",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqfe",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4719827",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqfi",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4719831",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqlA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4719985",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurql8",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4719987",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqlF",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4719988",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurql5",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4719998",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqiv",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4720002",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqiE",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720053",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqiC",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4720055",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqi3",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720056",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqjw",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4720065",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqj_",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4720069",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqa9",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720562",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqbd",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4720604",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqbR",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4720608",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqbQ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720609",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqb6",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4720637",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqOK",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720815",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqOC",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4720823",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqO3",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4720824",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqTP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4721122",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqKV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4721572",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqKS",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4721575",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqKN",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4721580",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqKM",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4721581",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqK5",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4721598",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqLv",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4721602",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqC8",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722099",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqC4",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722111",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqDx",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722112",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqD$",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722116",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqDb",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722142",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqDR",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722144",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqDQ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722145",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqDL",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722158",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurqD9",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722162",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq2M",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722221",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq3y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722247",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq3M",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722285",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq3A",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722289",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq39",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722290",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq7B",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722544",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq7F",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722548",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq73",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722552",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq74",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722559",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq4m",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722571",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq4q",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722575",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq4P",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722594",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq5n",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722634",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq5r",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722638",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq5q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722639",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurq5Q",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722657",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrwo",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722697",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrws",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722701",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrwr",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722702",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrwO",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722723",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrxm",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722763",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrxq",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722767",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrxh",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722768",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrxU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722789",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurruX",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722842",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrub",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722846",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrua",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722847",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrv_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722885",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrvJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722920",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_l",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722964",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_Z",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4722968",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_Y",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4722969",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_F",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4722996",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_3",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723000",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr_2",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723001",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr$l",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723028",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrz8",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723187",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurroW",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723227",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurroH",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723242",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurroG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723243",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurroA",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4723249",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurroF",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723252",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurro5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723262",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrpn",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723274",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrpm",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723275",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrpg",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723281",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrpi",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723287",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmx",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723328",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmw",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723329",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmk",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723349",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmj",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723350",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmH",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723370",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrmG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723371",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrm4",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723391",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrnx",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723392",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrnl",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723412",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrnI",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723433",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrnH",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723434",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrn5",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723454",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrn4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723455",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrse",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723475",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrsl",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723476",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrsJ",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723496",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrsI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723497",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrs6",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723517",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrs5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723518",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrtb",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723550",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrta",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723551",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrt8",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723571",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrtF",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723572",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrqw",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723585",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrqp",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723592",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrqo",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723593",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrra",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723679",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrrH",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723690",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrrG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723691",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrr2",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723705",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrr6",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723709",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrgo",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723721",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrfE",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4723957",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrf2",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4723961",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrf1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4723962",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrf5",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4723966",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrYs",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724237",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrYl",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724244",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrYZ",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4724248",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrYY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724249",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrY4",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724287",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrZw",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4724289",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrZv",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724290",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrZn",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724298",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrZr",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724302",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrWT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724390",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrWJ",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4724392",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrWI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4724393",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrXv",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724418",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrXX",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724442",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrXQ",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4724449",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrUW",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725019",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrUP",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725026",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrUO",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725027",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrI_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725253",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIg",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725265",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIk",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725269",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIj",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725270",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725273",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725284",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIT",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725286",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIS",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725287",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIH",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725290",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrIL",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725294",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrJe",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725331",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrJT",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725350",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrJS",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725351",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrJ0",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725371",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrJ7",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725372",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrGh",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725392",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrGU",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725413",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrGT",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725414",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrG1",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725434",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrG0",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725435",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrHq",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725455",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrHh",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725456",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrHV",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725476",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrHU",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725477",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrH9",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725490",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrH2",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725497",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrH1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725498",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrH5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725502",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrM$",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725508",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrMq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725519",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrMi",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725527",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrMY",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725529",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrMP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725538",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrMN",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725548",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrKk",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725653",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrKY",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725657",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrKX",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725658",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrLn",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725706",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrLl",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725716",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrLk",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725717",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrLa",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725727",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrLS",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725735",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBz",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725830",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBp",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725832",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBo",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725833",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBh",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725840",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBk",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725845",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrB9",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725874",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBF",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4725876",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrBE",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4725877",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrB5",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725886",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr8n",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4725898",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCz",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726150",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCy",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726151",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCW",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726171",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCd",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726172",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCB",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726192",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrCA",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726193",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrD_",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726213",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDz",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726214",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDX",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726234",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDW",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726235",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDJ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726248",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDK",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726255",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurrDB",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726256",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr2s",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726285",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr2q",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4726287",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr2h",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4726288",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr2Y",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4726297",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurr2b",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4726302",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursvd",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727004",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursvJ",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727016",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursvI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727017",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursvN",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4727020",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs_z",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4727046",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursze",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727251",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurszJ",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727272",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurszI",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727273",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurszD",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727286",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursz6",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727293",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursz5",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727294",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursob",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727326",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursoU",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4727333",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursoI",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727337",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursoH",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727338",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursoM",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4727341",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursoC",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4727351",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurspx",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727360",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurspp",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4727368",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurspo",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4727369",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursl9",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4728178",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursaG",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4728747",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursaK",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4728751",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursaF",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4728756",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursaE",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4728757",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursb9",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4728818",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursI$",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729348",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursI_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729349",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursIE",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729397",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursI7",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729404",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursJw",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729409",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursJv",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729410",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursJ_",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4729413",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursGI",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729513",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHt",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729548",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHh",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729552",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHg",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729553",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHj",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4729558",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHJ",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729576",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursHH",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4729578",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNn",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729674",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNr",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729678",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729679",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNP",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729698",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNU",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4729701",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNI",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729705",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursNH",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729706",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursKl",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4729748",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursKk",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729749",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursKX",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4729754",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursKF",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4729780",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs8i",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4730007",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs8Y",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4730009",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs8X",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4730010",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs8a",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4730015",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursDi",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4730327",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursDO",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4730339",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursDV",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4730340",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursDJ",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4730344",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDursDK",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4730351",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs7x",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4730688",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs7t",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4730700",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs7g",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4730705",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurs5r",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4730830",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurt_3",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4731192",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurt_2",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4731193",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurt$n",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4731210",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtp$",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4731460",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtp_",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4731461",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtfq",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4732111",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtfi",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4732119",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtfZ",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4732120",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtfW",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4732123",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtlM",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4732269",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtl2",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4732281",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtl1",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4732282",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtl6",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4732285",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurti_",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4732293",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtRh",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4733008",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtRX",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4733018",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtRa",
+      "name": "ATL2016 - CULOTTE PVC REDUCTION:Standard:4733023",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtRR",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4733024",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtRO",
+      "name": "ATL2016 - REDUCTION PVC:Standard:4733027",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtVC",
+      "name": "Canalisation:ATL2016 - PVC-U - NF EN 1329-1:4733303",
+      "type": "IfcFlowSegment",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    },
+    {
+      "id": "3MdC8i_db438GYVnDurtV4",
+      "name": "ATL2016 - COUDE FF PVC U:Standard:4733311",
+      "type": "IfcFlowFitting",
+      "parent": "3Zy0wMPrvB0Od1Ryk0Yksc"
+    }
+  ]
+}
